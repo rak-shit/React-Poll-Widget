@@ -1,0 +1,16 @@
+.poll-wrapper {
+    text-align: left;
+    max-width: 400px;
+}
+
+.poll-description {
+    text-align: center;
+}
+
+.poll-option {
+    margin: 1rem 0;
+    padding: 0.5rem 0.5rem;
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    cursor: pointer;
+}
